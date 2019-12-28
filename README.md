@@ -11,8 +11,8 @@ A 16th century inspired map style for mapbox, created with Mapbox Studio.
 * Included images to overlay (see code below) to complete the look.
 
 <img src="samples/map.gif" alt="drawing" style="" width="100%"/>
-<img src="samples/map_01.jpg" alt="drawing" style="" width="50%"/><img src="samples/map_02.jpg" alt="drawing" style="" width="50%"/>
-<img src="samples/map_03.jpg" alt="drawing" style="" width="50%"/><img src="samples/map_04.jpg" alt="drawing" style="" width="50%"/>
+<img src="samples/map_01.jpg" alt="drawing" style="" width="47%"/><img src="samples/map_02.jpg" alt="drawing" style="" width="47%"/>
+<img src="samples/map_03.jpg" alt="drawing" style="" width=47%"/><img src="samples/map_04.jpg" alt="drawing" style="" width="47%"/>
 
 
 ### JS images overlay
