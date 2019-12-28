@@ -10,11 +10,9 @@ A 16th century inspired map style for mapbox, created with Mapbox Studio.
 * 7 data sets maps layered including 2 ocean depths and ice cover, national parks and greens, etc.
 * Included images to overlay (see code below) to complete the look.
 
-<img src="samples/map.gif" alt="drawing" width="100%"/>
-<img src="samples/map_01.jpg" alt="drawing" width="49%"/>
-<img src="samples/map_02.jpg" alt="drawing" width="49%"/>
-<img src="samples/map_03.jpg" alt="drawing" width="49%"/>
-<img src="samples/map_04.jpg" alt="drawing" width="49%"/>
+<img src="samples/map.gif" alt="drawing" style="" width="100%"/>
+<img src="samples/map_01.jpg" alt="drawing" style="" width="50%"/><img src="samples/map_02.jpg" alt="drawing" style="" width="50%"/>
+<img src="samples/map_03.jpg" alt="drawing" style="" width="50%"/><img src="samples/map_04.jpg" alt="drawing" style="" width="50%"/>
 
 
 ### JS images overlay
